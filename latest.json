@@ -1,15 +1,15 @@
 {
   "version": "0.10.0",
   "notes": "Bug Fixes",
-  "pub_date": "2026-04-03T01:13:12Z",
+  "pub_date": "2026-04-03T03:38:41Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NEZaNlhiWDB6SUVYVmVIanlBYVBUNmJ2dFA5M2gvRUpoQnYzNkxIdjZvWlJZVHFuemJjd2p5d3NuYnYraEVIdFZWN3hJMWszZ2tGcy9kL2NpZDJKY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA1OTAwCWZpbGU6UXVpbGxlcnlfMC4xMC4wX2FtZDY0LkFwcEltYWdlCkFrTkZIRVVyZ1VlZGVlaHVNWmwrL3U1NEIyKzBCdlladVNlY3JFTFQvcGtOQVVKTFV3c1pwTXY1MUJtRldOM2JxM1BaS3R3STdmZStnWmlybm43SER3PT0K",
-      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0//Quillery_0.10.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NE4vWUdjeERha05yYU5FTzNkUXdaVHIzR1Y3RU1oU1NacWV0QktvbHV4b2NuZVVZNnBseEw3UDJXNHBkVFhKcFdoRFBEOFNPRHBvc3ZxY1N1ZU5LWGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTg1OTA2CWZpbGU6UXVpbGxlcnlfMC4xMC4wX2FtZDY0LkFwcEltYWdlClg0d2pCMHNHSmF6UXZybzBibW1NQXlnZTl5amwyNElqR1IwTWVqOTJOWlp2c0F3ckR6TG5jVXk0dU1rWC9rNFFoMktKOStScEk2b0svNFQzU2ZjRkRBPT0K",
+      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0/Quillery_0.10.0_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NEovMFdGVVQrcVJLMDk4eFNRZGxBQlBqUHpVb2NQaGJ4azI2dWFRZkZHRituODdwSVdqUm12WXJBTWlCamRDdlFPdHlLSVJOQTdTU0VKNmNtMUE4c3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA3NzY4CWZpbGU6UXVpbGxlcnlfMC4xMC4wX3g2NF9lbi1VUy5tc2kKbktXZ3lPR2xodVp0djcreVZlcDRqZC9qdWt2NWFsd3JHZVp6K0F5bG9RdXEyakNXZGZwdEdYczI5am0yT0o4R09leGh0R1hkWUFSbnIzV01TWXpaREE9PQo=",
-      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0//Quillery_0.10.0x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NExxeWV4emQxeEFvbG5uUTJpNTkzR25jcmtDdW93VllDZDhnbnptTXJtNDU0Q2JlQm1NekpRQ1lObFFRNzNCV0pjQWJDSjhvV2JORkh1V3ZXWXJXQWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTg1OTA2CWZpbGU6UXVpbGxlcnlfMC4xMC4wX3g2NF9lbi1VUy5tc2kKVmJ6UklHc3hHMS9CYy9tNFloNS9TRFVhb0gzTUVVTWlQTG4rZ3VRQnhPdzYvSG13VzBsUXBBN3V5VDluczhEc0hDVGE4SUpPbENrdUlzQU1kQmtUREE9PQo=",
+      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0/Quillery_0.10.0_x64_en-US.msi"
     },
     "darwin-x86_64": {
       "signature": "",
