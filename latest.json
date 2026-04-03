@@ -1,0 +1,19 @@
+{
+  "version": "0.10.0",
+  "notes": "Bug Fixes",
+  "pub_date": "2026-04-03T01:13:12Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NEZaNlhiWDB6SUVYVmVIanlBYVBUNmJ2dFA5M2gvRUpoQnYzNkxIdjZvWlJZVHFuemJjd2p5d3NuYnYraEVIdFZWN3hJMWszZ2tGcy9kL2NpZDJKY1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA1OTAwCWZpbGU6UXVpbGxlcnlfMC4xMC4wX2FtZDY0LkFwcEltYWdlCkFrTkZIRVVyZ1VlZGVlaHVNWmwrL3U1NEIyKzBCdlladVNlY3JFTFQvcGtOQVVKTFV3c1pwTXY1MUJtRldOM2JxM1BaS3R3STdmZStnWmlybm43SER3PT0K",
+      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0//Quillery_0.10.0_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUbnhuQUs5UGx4NEovMFdGVVQrcVJLMDk4eFNRZGxBQlBqUHpVb2NQaGJ4azI2dWFRZkZHRituODdwSVdqUm12WXJBTWlCamRDdlFPdHlLSVJOQTdTU0VKNmNtMUE4c3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTA3NzY4CWZpbGU6UXVpbGxlcnlfMC4xMC4wX3g2NF9lbi1VUy5tc2kKbktXZ3lPR2xodVp0djcreVZlcDRqZC9qdWt2NWFsd3JHZVp6K0F5bG9RdXEyakNXZGZwdEdYczI5am0yT0o4R09leGh0R1hkWUFSbnIzV01TWXpaREE9PQo=",
+      "url": "https://github.com/quillery/quillery-releases/releases/0.10.0//Quillery_0.10.0x64_en-US.msi"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
